@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/license/szsupunma/szsupunma/Telegram-Player?style=for-the-badge&logo=telegram" alt="LICENSE">
+    <img src="https://img.shields.io/github/license/szsupunma/Telegram-Player?style=for-the-badge&logo=telegram" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/szsupunma/Telegram-Player?style=for-the-badge&logo=telegram" alt="Contributors">
     <img src="https://img.shields.io/github/repo-size/szsupunma/Telegram-Player?style=for-the-badge&logo=telegram" alt="Repository Size"> 
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">

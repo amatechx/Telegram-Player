@@ -1,5 +1,5 @@
-<h1 align= center><b> Telegram-Player </b></h1>
-<h3 align = center> A Telegram stream Bot with proper functions written in Python with Pyrogram and Py-Tgcalls. Telegram bot project for streaming a video and music trought the new telegram group video chat.</h3>
+<h1 align= center><b> Telegram-Player-UB </b></h1>
+<h3 align = center> A Telegram stream UB with proper functions written in Python with Pyrogram and Py-Tgcalls. Telegram bot project for streaming a video and music trought the new telegram group video chat.</h3>
 
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
@@ -47,13 +47,20 @@
 
 1. `API_ID` : Assistant Account Telegram API_ID, get it from my.telegram.org
 2. `API_HASH` : Assistant Account Telegram API_HASH, get it from my.telegram.org
-3. `BOT_TOKEN` : Your Telegram Bot Token, get it from @Botfather (Make sure Inline is turned On)
+3. `BOT_TOKEN` : Your Telegram Bot Token, get it from @Botfather (Make sure Inline is turned On)| If you want button
 4. `SESSION` : Pyrogram Session String of Assistant Account.
 5. `SUDO_USERS` : Your Telegram id get it useing @szrosebot [type /id]
-6. `COMMAND`: your bot command like [!/,.]
+6. `COMMAND`: your User bot command like [!/,.]
+7. `REPO` : Your forked repo [first fork this](https://github.com/szsupunma/Telegram-Player)
+8. `ASSID` : Your Id |Assistant account id
+9. `NAME` : Assistant name
+10.`LOG_GROUP_ID` : group id with admin [Assistant|bot]
+11.`MONGO_DB_URI` : mongo database uri for save your data
+
+
 
 <h2 align="center">
-   ✨ Features
+   ✨ Features | UB
 </h2>
 
 
@@ -62,24 +69,33 @@
 - Playlist & Queue support
 - Skip, Pause, Resume, Stop feature
 - Music & Video downloader feature
-- Inline Search support
 - YouTube direct search support
 - YouTube/Local/Live/m3u8 stream support
 - Control With Button support
 - Volume Control
-- Userbot Auto Join
 - Direct Updater
 - Youtube thumbnail & info auto updated
 - Zero lag music player
-- 
+
+
 <h2 align="center">
-   Credits 💖
+   String Session
 </h2>
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@vcsession/szteambots)
+
+ 
+<h2 align="center">
+   Deploy To Heroku
+</h2>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/szsupunma/Telegram-Player)
+
 
 ## Special thanks to these amazing projects
 - [pyrogram](https://github.com/pyrogram/pyrogram)
 - [py-tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [levina-lab](https://github.com/levina-lab/video-stream)
-
+- [Yukki](https://t.me/OfficialYukki)
 
 # Releasing Very Soon! Need 30+ 🌟

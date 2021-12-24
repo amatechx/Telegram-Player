@@ -24,6 +24,10 @@
     <a href="https://t.me/szteambots"> Telegram-Player Support </a>
 </p>
 
+<p align="center">
+<a href="https://t.me/szteambots"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-sz"></a>
+</p>
+
 <h2 align="center">
    Requirements
 </h2>

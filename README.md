@@ -82,4 +82,4 @@
 - [levina-lab](https://github.com/levina-lab/video-stream)
 
 
-# Releasing Very Soon! Need 10 🌟
+# Releasing Very Soon! Need 30+ 🌟

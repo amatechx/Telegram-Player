@@ -55,7 +55,7 @@
 4. `SESSION` : Pyrogram Session String of Assistant Account.
 5. `SUDO_USERS` : Your Telegram id get it useing @szrosebot [type /id]
 6. `COMMAND`: your User bot command like [!/,.]
-7. `REPO` : Your forked repo [first fork this](https://github.com/szsupunma/Telegram-Player)
+7. `REPO` : Your forked repo [first fork this](https://github.com/szsupunma/Telegram-Player/fork)
 8. `ASSID` : Your Id |Assistant account id
 9. `NAME` : Assistant name
 10.`LOG_GROUP_ID` : group id with admin [Assistant|bot]
